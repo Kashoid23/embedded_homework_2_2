@@ -1,0 +1,5 @@
+../Core/Src/relay_test.c:23:6:onRelayContactInterrupt	16	static
+../Core/Src/relay_test.c:37:17:msSinceLastChange	16	static
+../Core/Src/relay_test.c:45:13:measureSwitch	32	static
+../Core/Src/relay_test.c:80:17:average	16	static
+../Core/Src/relay_test.c:85:6:runMeasurements	40	static
